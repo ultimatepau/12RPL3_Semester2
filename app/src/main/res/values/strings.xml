@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">12RPL3 Rizaldi</string>
+    <string name="nama_pegawai">Nama Pegawai</string>
+    <string name="alamat">Alamat</string>
+    <string name="jk">Jenis Kelamin</string>
+    <string name="gol">Golongan</string>
+    <string name="nama">Nama</string>
+</resources>
